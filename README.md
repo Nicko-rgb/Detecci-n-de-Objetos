@@ -12,7 +12,7 @@ Este proyecto implementa un sistema de **detección de objetos en tiempo real** 
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.x Posterior
 - Bibliotecas necesarias:
   - OpenCV
   - numpy
@@ -43,9 +43,9 @@ bash
 
 Descarga los siguientes archivos y colócalos en el directorio del proyecto:
 
-- `yolov4.weights`
-- `yolov4.cfg`
-- `coco.names`
+- ```yolov4.weights```
+- ```yolov4.cfg```
+- ```coco.names```
 
 Puedes encontrar estos archivos en el [repositorio oficial de YOLO](https://github.com/AlexeyAB/darknet).
 Desplaza hacia abajo y busca los archivos
