@@ -33,8 +33,8 @@ Este proyecto implementa un sistema de **detección de objetos en tiempo real** 
 Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/Nicko-rgb/Detecci-n-de-Objetos.git
+cd Detecci-n-de-Objetos
 ```
 
 ### 2. Crear un Entorno Virtual
@@ -61,6 +61,11 @@ Descarga los siguientes archivos y colócalos en el directorio principal del pro
 
 - [`yolov4.weights`](https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
 - [`yolov4.cfg`](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
+- [`coco.names`](https://github.com/AlexeyAB/darknet/blob/master/data/coco.names)
+
+O Descarga su variante mas ligera
+- [`yolov4-tiny.weights`](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights)
+- [`yolov4-tiny.cfg`](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg)
 - [`coco.names`](https://github.com/AlexeyAB/darknet/blob/master/data/coco.names)
 
 Asegúrate de colocarlos correctamente en la carpeta del proyecto.

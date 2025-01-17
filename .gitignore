@@ -136,6 +136,7 @@ ENV/
 env.bak/
 venv.bak/
 
+coco.names
 yolov4.cfg
 yolov4-tiny.cfg
 yolov4.weights
