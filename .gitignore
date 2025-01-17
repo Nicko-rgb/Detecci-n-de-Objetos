@@ -136,6 +136,10 @@ ENV/
 env.bak/
 venv.bak/
 
+yolov4.cfg
+yolov4-tiny.cfg
+yolov4.weights
+yolov4-tiny.weights
 # Spyder project settings
 .spyderproject
 .spyproject
